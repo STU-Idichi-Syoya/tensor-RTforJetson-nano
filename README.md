@@ -1,6 +1,6 @@
 # TensorRT for testing
 ## how to use
-``bash
+```bash
 $ git clone https://github.com/STU-Idichi-Syoya/tensor-RTforJetson-nano
 $ cd tensor-RTforJetson-nano
 $ cd models
